@@ -5,6 +5,9 @@ ScreenBox, est un Frontend Arcade 100% français, écrit avec les technologies d
 ## <img src="https://cdn.discordapp.com/attachments/611997398410985492/620514068637286400/code.png" width="25"> Simple & Rapide
 Aucun élément d'interface utilisateur déroutant et aucun temps de chargement ne vous permettent de vraiment profiter de votre musique.
 
+## <img src="https://cdn.discordapp.com/attachments/611997398410985492/620514068637286400/code.png" width="25"> Support Multiplateforme
+Peu importe que vous soyez sous Windows, Linux ou MacOS. Le ScreenBox les aime tous.
+
 ## <img src="https://cdn.discordapp.com/attachments/611997398410985492/620514068637286400/code.png" width="25"> ToDoList
 - [x] Initialisation du projet.
 - [ ] ...
@@ -12,5 +15,20 @@ Aucun élément d'interface utilisateur déroutant et aucun temps de chargement 
 - [ ] ...
 - [ ] ...
 
+## Montrez votre soutien
+Mettez une ⭐️ sur ce projet pour nous aider !
+
 **ScreenBox** est développé et maintenu par : Kam3leoN.
 > Repo GitHub : [@ScreenBox](https://github.com/Kam3leoN/ScreenBox/)
+
+## 📝 License
+Copyright © 2019 Franck Abgrall.
+This project is MIT licensed.
+
+💻 Code
+📖 Documentation
+⚠️ Test
+💬 FAQ
+🐛 Bugs
+🚧 Maintenance
+🤔 Idées, Planning et feedback
