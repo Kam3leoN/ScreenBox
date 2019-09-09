@@ -25,5 +25,5 @@ Mettez une ⭐️ sur ce projet pour nous aider !
 <a href="#" title="Code">💻</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Tests">⚠️</a> <a href="#" title="Bug reports">🐛</a> <a href="#" title="Maintenance">🚧</a> <a href="#" title="Questions / Réponses">💬</a> <a href="#" title="Ideas, Planning, & Feedback">🤔</a>
 
 ## <img src="https://cdn.discordapp.com/attachments/611997398410985492/620514068637286400/code.png" width="25"> License
-Copyright © 2019 ScreenZone - Kam3leoN.
+Copyright © 2019 ScreenZone - Kam3leoN.<br />
 Ce projet est sous license MIT.
