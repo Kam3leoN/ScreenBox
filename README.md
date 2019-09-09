@@ -22,7 +22,7 @@ Mettez une ⭐️ sur ce projet pour nous aider !
 > Repo GitHub : [@ScreenBox](https://github.com/Kam3leoN/ScreenBox/)
 
 ## <img src="https://cdn.discordapp.com/attachments/611997398410985492/620514068637286400/code.png" width="25"> License
-Copyright © 2019 Franck Abgrall.
+Copyright © 2019 ScreenZone - Kam3leoN.
 This project is MIT licensed.
 
 
