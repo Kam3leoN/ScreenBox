@@ -25,10 +25,6 @@ Mettez une ⭐️ sur ce projet pour nous aider !
 Copyright © 2019 Franck Abgrall.
 This project is MIT licensed.
 
-💻 Code
-📖 Documentation
-⚠️ Test
-💬 FAQ
-🐛 Bugs
-🚧 Maintenance
-🤔 Idées, Planning et feedback
+
+
+<a href="#" title="Code">💻</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Tests">⚠️</a> <a href="#" title="Bug reports">🐛</a> <a href="#" title="Maintenance">🚧</a> <a href="#" title="Questions / Réponses">💬</a> <a href="#" title="Ideas, Planning, & Feedback">🤔</a>
