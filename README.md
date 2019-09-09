@@ -11,6 +11,6 @@ Aucun élément d'interface utilisateur déroutant et aucun temps de chargement 
 - [x] Initialisation du projet.
 - [ ] À faire
 
-**ScreenBox**.  
-Développé et maintenu par : Kam3leoN.
+----------------------------------------------------------------------------------------------
+**ScreenBox** est développé et maintenu par : Kam3leoN.
 > Repo GitHub : [@ScreenBox](https://github.com/Kam3leoN/ScreenBox/)
