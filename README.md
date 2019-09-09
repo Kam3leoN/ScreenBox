@@ -21,7 +21,7 @@ Peu importe que vous soyez sous Windows, Linux ou MacOS. Le ScreenBox les aime t
 Mettez une ⭐️ sur ce projet pour nous aider !
 
 ## <img src="https://cdn.discordapp.com/attachments/611997398410985492/620514068637286400/code.png" width="25"> Version
-`0.1.0 -> 1.0.0`
+`0.1.0 -> 1.0.0` Initialisation du projet.
 
 **ScreenBox** est développé et maintenu par : Kam3leoN.
 > Repo GitHub : [@ScreenBox](https://github.com/Kam3leoN/ScreenBox/)
