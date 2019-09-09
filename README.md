@@ -21,10 +21,9 @@ Mettez une ⭐️ sur ce projet pour nous aider !
 **ScreenBox** est développé et maintenu par : Kam3leoN.
 > Repo GitHub : [@ScreenBox](https://github.com/Kam3leoN/ScreenBox/)
 
-## <img src="https://cdn.discordapp.com/attachments/611997398410985492/620514068637286400/code.png" width="25"> License
-Copyright © 2019 ScreenZone - Kam3leoN.
-This project is MIT licensed.
-
-
 
 <a href="#" title="Code">💻</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Tests">⚠️</a> <a href="#" title="Bug reports">🐛</a> <a href="#" title="Maintenance">🚧</a> <a href="#" title="Questions / Réponses">💬</a> <a href="#" title="Ideas, Planning, & Feedback">🤔</a>
+
+## <img src="https://cdn.discordapp.com/attachments/611997398410985492/620514068637286400/code.png" width="25"> License
+Copyright © 2019 ScreenZone - Kam3leoN.
+Ce projet est sous license MIT.
