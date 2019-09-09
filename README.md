@@ -21,7 +21,7 @@ Mettez une ⭐️ sur ce projet pour nous aider !
 **ScreenBox** est développé et maintenu par : Kam3leoN.
 > Repo GitHub : [@ScreenBox](https://github.com/Kam3leoN/ScreenBox/)
 
-## 📝 License
+## <img src="https://cdn.discordapp.com/attachments/611997398410985492/620514068637286400/code.png" width="25"> License
 Copyright © 2019 Franck Abgrall.
 This project is MIT licensed.
 
