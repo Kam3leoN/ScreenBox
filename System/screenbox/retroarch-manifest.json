@@ -1,0 +1,7 @@
+{
+  "version": "1.19.1",
+  "packageUrl": "https://buildbot.libretro.com/stable/1.19.1/windows/x86_64/RetroArch.7z",
+  "coresUrl": "https://buildbot.libretro.com/stable/1.19.1/windows/x86_64/RetroArch_cores.7z",
+  "setupUrl": "https://buildbot.libretro.com/stable/1.19.1/windows/x86_64/RetroArch-Win64-setup.exe",
+  "minArchiveBytes": 5242880
+}

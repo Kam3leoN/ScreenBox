@@ -1,0 +1,16 @@
+{
+  "stable": {
+    "version": "3.5.0",
+    "release": 350,
+    "date": "2026-05-15",
+    "packages": [
+      {
+        "name": "WindowsBundle",
+        "filename": "ScreenBox-3.5.0.zip",
+        "url": "https://github.com/Kam3leoN/ScreenBox/releases/download/v3.5.0/ScreenBox-3.5.0.zip",
+        "md5": "",
+        "message": "ScreenBox bundle update. User data (Roms, Medias, Saves, screenbox.ini) is preserved."
+      }
+    ]
+  }
+}

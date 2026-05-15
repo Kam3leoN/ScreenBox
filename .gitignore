@@ -8,6 +8,13 @@ Saves/**
 Launcher/ES-DE/
 *.log
 
+# RetroArch : installe via ES-KDE\tools\install-retroarch-bundle.ps1 (sync-screenbox-bundle.cmd)
+Emulators/retroarch/**
+!Emulators/retroarch/.gitkeep
+Emulators/RetroArch
+System/screenbox/tmp/**
+!System/screenbox/tmp/.gitkeep
+
 # Fichiers locaux
 Thumbs.db
 Desktop.ini

@@ -3199,3 +3199,204 @@ msgstr "Creación de directorios del sistema..."
 
 msgid "ERROR: COULDN'T RENDER PDF FILE"
 msgstr "ERROR: NO SE HA PODIDO PROCESAR EL ARCHIVO PDF"
+
+msgid "NOW PLAYING"
+msgstr "Reproduciendo"
+
+msgid "DOWNLOAD AND INSTALL RETROARCH"
+msgstr "Descargar e instalar RetroArch"
+
+msgid "UPDATE INSTALLED. RESTART SCREENBOX TO COMPLETE."
+msgstr "Actualización instalada. Reinicie ScreenBox para completar."
+
+msgid "CHECK FOR SCREENBOX UPDATES"
+msgstr "Buscar actualizaciones de ScreenBox"
+
+msgid "SCREENBOX UPDATER"
+msgstr "Actualizador de ScreenBox"
+
+msgid "REINSTALL RETROARCH"
+msgstr "Reinstalar RetroArch"
+
+msgid "RETROARCH INSTALLER"
+msgstr "Instalador de RetroArch"
+
+msgid "DOWNLOAD AND INSTALL UPDATE"
+msgstr "Descargar e instalar la actualización"
+
+msgid "UPDATE CHECK FREQUENCY"
+msgstr "Frecuencia de comprobación de actualizaciones"
+
+msgid "AUTOMATIC UPDATE CHECKS"
+msgstr "Comprobaciones automáticas de actualizaciones"
+
+msgid "NEW SCREENBOX RELEASE AVAILABLE:"
+msgstr "NUEVA VERSIÓN DE SCREENBOX DISPONIBLE:"
+
+msgid "RETROARCH IS ALREADY INSTALLED"
+msgstr "RetroArch ya está instalado"
+
+msgid "DOWNLOADING RETROARCH "
+msgstr "Descargando RetroArch "
+
+msgid "SCREENBOX IS UP TO DATE"
+msgstr "ScreenBox está actualizado"
+
+msgid "RETROARCH INSTALLED SUCCESSFULLY"
+msgstr "RetroArch instalado correctamente"
+
+msgid "UPDATES AND DOWNLOADS"
+msgstr "Actualizaciones y descargas"
+
+
+msgid "Error"
+msgstr "Error"
+
+msgid "retroarch.exe not found after installation"
+msgstr "retroarch.exe no encontrado tras la instalación"
+
+msgid "retroarch.exe not found after extraction"
+msgstr "retroarch.exe no encontrado tras la extracción"
+
+msgid "Downloading update..."
+msgstr "Descargando actualización..."
+
+msgid "RetroArch extraction failed. Check free disk space and 7-Zip."
+msgstr "Error al extraer RetroArch. Compruebe espacio en disco y 7-Zip."
+
+msgid "Downloading RetroArch"
+msgstr "Descargando RetroArch"
+
+msgid "Intro video applies on next ScreenBox launch."
+msgstr "El vídeo de intro se aplicará en el próximo inicio de ScreenBox."
+
+msgid "Install update"
+msgstr "Instalar actualización"
+
+msgid "Update available"
+msgstr "Actualización disponible"
+
+msgid "Preparing..."
+msgstr "Preparando..."
+
+msgid "Installing RetroArch"
+msgstr "Instalando RetroArch"
+
+msgid "ScreenBox preferences"
+msgstr "Preferencias de ScreenBox"
+
+msgid "RetroArch installed"
+msgstr "RetroArch instalado"
+
+msgid "Applying update..."
+msgstr "Aplicando actualización..."
+
+msgid "Downloaded file is not a valid 7z archive"
+msgstr "El archivo descargado no es un archivo 7z válido"
+
+msgid "7-Zip not found. Install 7-Zip or place 7z.exe in Launcher/tools/."
+msgstr "7-Zip no encontrado. Instale 7-Zip o coloque 7z.exe en Launcher/tools/."
+
+msgid "Later"
+msgstr "Más tarde"
+
+msgid "Downloaded file is too small or invalid"
+msgstr "Archivo descargado demasiado pequeño o no válido"
+
+msgid "Background music"
+msgstr "Música de fondo"
+
+msgid "Could not copy RetroArch into Emulators/retroarch/"
+msgstr "No se pudo copiar RetroArch en Emulators/retroarch/"
+
+msgid "Extracting RetroArch"
+msgstr "Extrayendo RetroArch"
+
+msgid "Startup intro video"
+msgstr "Vídeo de intro al inicio"
+
+
+msgid "RetroArch installer"
+msgstr "Instalador de RetroArch"
+
+msgid "Update installed. Restart ScreenBox to complete."
+msgstr "Actualización instalada. Reinicie ScreenBox para completar."
+
+msgid "Quit ScreenBox"
+msgstr "Salir de ScreenBox"
+
+msgid "Download and install update"
+msgstr "Descargar e instalar la actualización"
+
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "New ScreenBox release available:"
+msgstr "Nueva versión de ScreenBox disponible:"
+
+msgid "Now playing"
+msgstr "Reproduciendo"
+
+msgid "Scraper"
+msgstr "Scraper"
+
+msgid "Sound settings"
+msgstr "Ajustes de sonido"
+
+msgid "Download and install RetroArch"
+msgstr "Descargar e instalar RetroArch"
+
+msgid "Check for ScreenBox updates"
+msgstr "Buscar actualizaciones de ScreenBox"
+
+msgid "Update"
+msgstr "Actualizar"
+
+msgid "Reinstall RetroArch"
+msgstr "Reinstalar RetroArch"
+
+msgid "ScreenBox is up to date"
+msgstr "ScreenBox is up to date"
+
+msgid "Other settings"
+msgstr "Otros ajustes"
+
+msgid "Game collection settings"
+msgstr "Ajustes de colecciones"
+
+msgid "Updates and downloads"
+msgstr "Actualizaciones y descargas"
+
+msgid "UI settings"
+msgstr "Ajustes de interfaz"
+
+msgid "Automatic update checks"
+msgstr "Comprobaciones automáticas de actualizaciones"
+
+msgid "Main menu"
+msgstr "Menú principal"
+
+msgid "Quit"
+msgstr "Salir"
+
+msgid "Downloading"
+msgstr "Descargando"
+
+msgid "RetroArch is already installed"
+msgstr "RetroArch ya está instalado"
+
+msgid "Input device settings"
+msgstr "Ajustes de dispositivos de entrada"
+
+msgid "RetroArch installed successfully"
+msgstr "RetroArch instalado correctamente"
+
+msgid "Utilities"
+msgstr "Utilidades"
+
+msgid "Update check frequency"
+msgstr "Frecuencia de comprobación de actualizaciones"
+
+msgid "ScreenBox updater"
+msgstr "Actualizador de ScreenBox"
+

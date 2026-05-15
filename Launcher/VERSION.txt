@@ -1,6 +1,6 @@
 ES-KDE portable Windows
-built_utc=2026-05-15T11:38:08.2190207Z
+built_utc=2026-05-15T20:52:00.7243855Z
 builder_repo=ES-KDE
-builder_commit=80c6955ff
+builder_commit=2cf4cc9ad
 builder_branch=master
 screenbox_rom_dir=../roms (SCREENBOX_PARENT_ROM_DIR=ON)

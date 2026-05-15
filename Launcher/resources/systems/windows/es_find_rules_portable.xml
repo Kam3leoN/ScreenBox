@@ -12,8 +12,10 @@
             <!-- Portable installation -->
             <entry>%ESPATH%\Emulators\RetroArch-Win64\retroarch.exe</entry>
             <entry>%ESPATH%\Emulators\RetroArch\retroarch.exe</entry>
+            <entry>%ESPATH%\Emulators\retroarch\retroarch.exe</entry>
             <entry>%ESPATH%\..\Emulators\RetroArch-Win64\retroarch.exe</entry>
             <entry>%ESPATH%\..\Emulators\RetroArch\retroarch.exe</entry>
+            <entry>%ESPATH%\..\Emulators\retroarch\retroarch.exe</entry>
         </rule>
     </emulator>
     <core name="RETROARCH">
