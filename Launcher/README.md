@@ -41,12 +41,12 @@ pwsh -File D:\__SCREENBOX_PROJECTS\ES-KDE\tools\publish-to-launcher.ps1
 
 ## ScreenBox
 
-```powershell
-pwsh -File D:\__SCREENBOX_PROJECTS\ScreenBox\scripts\refresh-esde-from-emulationstation-de-build.ps1
-pwsh -File D:\__SCREENBOX_PROJECTS\ScreenBox\scripts\sync-esde-from-workspace-bundle.ps1
-```
+Le runtime de ce dépôt est copié dans le bundle par **[ScreenBox-Builder](https://github.com/Kam3leoN/ScreenBox-Builder)** vers `Launcher\` à côté de `ScreenBox.exe` ([dépôt ScreenBox](https://github.com/Kam3leoN/ScreenBox)).
 
-Par défaut, la source est ce dépôt (`ES-KDE-Launcher`) si `ES-KDE.exe` y est présent.
+```bat
+cd /d D:\__SCREENBOX_PROJECTS\ScreenBox-Builder
+tools\build-release.cmd
+```
 
 ## Lancement directe
 

@@ -1,7 +1,10 @@
-# Données utilisateur et contenu lourd
-Roms/
-Medias/
-Saves/
+# Données utilisateur et contenu lourd (conserver les dossiers racine vides)
+Roms/**
+!Roms/.gitkeep
+Medias/**
+!Medias/.gitkeep
+Saves/**
+!Saves/.gitkeep
 Launcher/ES-DE/
 *.log
 
