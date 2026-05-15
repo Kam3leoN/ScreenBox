@@ -1,0 +1,10 @@
+# Données utilisateur et contenu lourd
+Roms/
+Medias/
+Saves/
+Launcher/ES-DE/
+*.log
+
+# Fichiers locaux
+Thumbs.db
+Desktop.ini

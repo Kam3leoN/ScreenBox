@@ -1,0 +1,10 @@
+# Depot runtime uniquement — ne pas ignorer *.exe, *.dll ni resources\locale\*.mo
+Thumbs.db
+Desktop.ini
+*.log
+*.tmp
+*.lib
+*.exp
+*.obj
+*.pdb
+ES-DE/
